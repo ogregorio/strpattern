@@ -11,9 +11,9 @@ The words found in your file will be allocated in the template defined by you, r
 Origin: apple banana grape\
 Pattern: {?} is a fruit.\
 Destiny:\
-    apple is a fruit.\
-    banana is a fruit.\
-    grape is a fruit.\
+&nbsp;apple is a fruit.\
+&nbsp;banana is a fruit.\
+&nbsp;grape is a fruit.
 
 ### COMPILE
 Prerequisites: GO Lang Environment\
