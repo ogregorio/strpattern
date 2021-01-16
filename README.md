@@ -14,3 +14,7 @@ Destiny:
     apple is a fruit.
     banana is a fruit.
     grape is a fruit.
+
+### COMPILE
+Prerequisites: GO Lang Environment
+Next step: go build strpattern.go
