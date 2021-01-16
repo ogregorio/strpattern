@@ -1,13 +1,13 @@
 # strpattern
 The words found in your file will be allocated in the template defined by you, respecting the {?} icon.
 
-#USE
+## USE
 strpattern --origin [path] --destiny [path] --regex [regex]
 
-#INFO
+## INFO
 The words found in your file will be allocated in the template defined by you, respecting the {?} icon.
 	
-#EXAMPLE
+## EXAMPLE
 Origin: apple banana grape
 Pattern: {?} is a fruit.
 Destiny:
