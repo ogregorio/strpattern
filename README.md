@@ -10,9 +10,9 @@ The words found in your file will be allocated in the template defined by you, r
 ## EXAMPLE
 Origin: apple banana grape\
 Pattern: {?} is a fruit.\
-Destiny:&nbsp;
+Destiny:\
     apple is a fruit.\
-    banana is a fruit.\;
+    banana is a fruit.\
     grape is a fruit.\
 
 ### COMPILE
